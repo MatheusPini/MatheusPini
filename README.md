@@ -4,7 +4,7 @@ E esse é o meu GitHub, vou tentar manter atualizado, prometo, em breve irei ins
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pini-aa7891115/)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPini&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPini&show_icons=true&theme=radical)
 
 
 ## Tecnologias que eu ja utilizei nos meus projetinhos no dia a dia 😎
