@@ -35,7 +35,8 @@ E esse é o meu GitHub, vou tentar manter atualizado, prometo, em breve irei ins
 </div><br>
 
 ## Tecnologias de projetos em meus repositórios: 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPini&hide_progress=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPini&langs_count=8)
 
 E-mail profissional para a gente trocar uma ideia: <br>
 📧 matheus.pini@pinisolucoesti.com.br
